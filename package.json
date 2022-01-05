@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/dewanwakilahmed/node.js-crash-course-traversymedia/issues"
   },
-  "homepage": "https://github.com/dewanwakilahmed/node.js-crash-course-traversymedia#readme"
+  "homepage": "https://github.com/dewanwakilahmed/node.js-crash-course-traversymedia#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
